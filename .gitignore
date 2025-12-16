@@ -1,0 +1,25 @@
+# GraphRAG 源码（作为参考，不纳入版本控制）
+原著分解方法论/1.0/graphRAG/graphrag/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+*.so
+.env
+venv/
+.venv/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# 待训练的小说文件（体积较大）
+原著分解方法论/待训练/
